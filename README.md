@@ -3,4 +3,8 @@ DATA: AGNews
 
 LABELS: World (1), Sports (2), Business (3), Sci/Tech (4)
 
-## 我還沒學會建一個好的CNN QQ
+## Word2Vec + Random forest
+## Word2Vec + CNN
+## TF-IDF + Random forest
+## TF-IDF + CNN
+Not good.
